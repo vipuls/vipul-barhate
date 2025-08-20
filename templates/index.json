@@ -431,7 +431,7 @@
           "settings": {
             "text": "<p>SUSTAINABLE, ETHICALLY MADE CLOTHES IN SIZES XXS TO 6XL</p>",
             "width": "100%",
-            "max_width": "narrow",
+            "max_width": "normal",
             "alignment": "center",
             "type_preset": "h5",
             "font": "var(--font-body--family)",
