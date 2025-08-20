@@ -604,6 +604,7 @@
             "product_title_YXxMTj": {
               "type": "product-title",
               "name": "t:names.product_title",
+              "disabled": true,
               "settings": {
                 "width": "100%",
                 "max_width": "normal",
@@ -629,6 +630,7 @@
             "price_JQzVV4": {
               "type": "price",
               "name": "t:names.product_price",
+              "disabled": true,
               "settings": {
                 "show_sale_price_first": true,
                 "show_installments": false,
@@ -662,8 +664,8 @@
         "collection": "all",
         "layout_type": "grid",
         "carousel_on_mobile": false,
-        "max_products": 8,
-        "columns": 4,
+        "max_products": 6,
+        "columns": 3,
         "mobile_columns": "2",
         "mobile_card_size": "60cqw",
         "columns_gap": 8,
