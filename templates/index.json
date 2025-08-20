@@ -164,7 +164,7 @@
         "button_DtmhWH"
       ],
       "custom_css": [
-        "button{background: yellow;}"
+        "button {background: yellow;}"
       ],
       "name": "t:names.custom_section",
       "settings": {
@@ -543,7 +543,7 @@
             "button_Yic4TU": {
               "type": "button",
               "settings": {
-                "label": "SHOP NOW",
+                "label": "SHOP NOW ->",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button",
