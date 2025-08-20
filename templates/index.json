@@ -58,6 +58,7 @@
         "text_YLPk4p",
         "button_H9gpTf"
       ],
+      "disabled": true,
       "name": "t:names.hero",
       "settings": {
         "media_type_1": "image",
@@ -616,9 +617,9 @@
   },
   "order": [
     "hero_jVaWmY",
-    "product_list_fa6P9H",
     "section_Ph6wN6",
     "section_pizPHR",
+    "product_list_fa6P9H",
     "section_whhiC9"
   ]
 }
